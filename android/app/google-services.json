@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938215100151",
+    "firebase_url": "https://finalapp-31268.firebaseio.com",
+    "project_id": "finalapp-31268",
+    "storage_bucket": "finalapp-31268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938215100151:android:f7caf6569594b7b9d0cdf2",
+        "android_client_info": {
+          "package_name": "satyapuppala.clickcollect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938215100151-7qa1fk48ao3uilfptqt57flp92lvt2mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjnwFbhKrYfKn6J8H_kVNvyoR6N39AJ8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938215100151-7qa1fk48ao3uilfptqt57flp92lvt2mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
